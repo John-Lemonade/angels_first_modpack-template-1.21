@@ -3,9 +3,9 @@
 	"id": "angels_first_modpack",
 	"version": "${version}",
 	"name": "Angel's_First_Modpack",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This is a test pack for mods I want to try out. They'll include items, blocks, creatures, and more!",
 	"authors": [
-		"Me!"
+		"Angel Forestieri :)"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",

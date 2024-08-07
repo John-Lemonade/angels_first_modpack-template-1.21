@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+      "layer0": "angels_first_modpack:item/one_star_dragon_ball"
+
+  }
+}

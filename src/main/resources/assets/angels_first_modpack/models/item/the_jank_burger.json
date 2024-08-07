@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+      "layer0": "angels_first_modpack:item/the_jank_burger"
+
+  }
+}

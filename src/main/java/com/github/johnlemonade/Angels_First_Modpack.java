@@ -7,6 +7,8 @@ import net.minecraft.util.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import static com.github.johnlemonade.register.Angels_First_Modpack_Items.*;
+
 public class Angels_First_Modpack implements ModInitializer {
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.
